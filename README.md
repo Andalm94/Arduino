@@ -13,3 +13,4 @@ Ejercicios:
 * LCD_Potenciometro_porcentaje: https://www.tinkercad.com/things/6gBBdt5Yk61
 * LED_RGB_conPotenciometro: https://www.tinkercad.com/things/iz4WRUMfLG3
 * Termometro: https://www.tinkercad.com/things/4dOay8tyQRB
+* LCD_contador_0-100_con5pulsadores(Parcial): https://www.tinkercad.com/things/8EmgYonUUdt
