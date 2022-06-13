@@ -54,7 +54,7 @@ void borrarEspacios(int intensidadBrillo);
 //--------------Variables------------------------
  char key; //input del usuario
  int numeroIngresado; //Numero que ingresa el usuario
- int flagAccesoProgramacion = 0; //Habilitada la carga de numeros (no:1 // si:1)
+ int flagAccesoProgramacion = 0; //Habilitada la carga de numeros (no:0 // si:1)
  int flagTeclaPresionada; //La utilizamos para permitir que se ingrese un solo numero por tecla presionada
  int intensidadBrillo = 0; //Rango entre 0 y 100 que enciende la bombilla al presionar A
  int intensidadBrilloAux = 0; //Variable donde se almacena el porcentaje ingresado por el usuario
